@@ -1,13 +1,13 @@
 # SENKYO_JAPAN_MAP
 EMAPで使用している選挙用の日本地図を管理するためのリポジトリです。  
   
-**EMAPの地図種別**  
-- ```Prefecture``` : 県境
-- ```City``` : 市区町村の境界
-- ```SHSenkyoku``` : 衆院選 選挙区
-- ```SHKaihyojo``` : 衆院選 開票所
-- ```SASenkyoku``` : 参院選 選挙区
-- ```SAKaihyojo``` : 参院選 開票所
+**EMAPの地図種別 と 最新バージョン**  
+- ```Prefecture``` : 県境 - YYYY.MM.DD
+- ```City``` : 市区町村の境界 - YYYY.MM.DD
+- ```SHSenkyoku``` : 衆院選 選挙区 - 2020.10.2 ( 2020.10.1 演出チェック済 )
+- ```SHKaihyojo``` : 衆院選 開票所 - 2020.10.2 ( 2020.10.1 演出チェック済 )
+- ```SASenkyoku``` : 参院選 選挙区 - YYYY.MM.DD
+- ```SAKaihyojo``` : 参院選 開票所 - YYYY.MM.DD
 
   
 ## フォルダ構造
@@ -26,13 +26,6 @@ EMAPで読み込む最終ファイルは、以下の２種類です。
 - ```FBX```のFBXファイル
 - ```SVG```のSGVファイル
 
-## 最新バージョン
-- ```Prefecture``` : YYYY.MM.DD
-- ```City``` : YYYY.MM.DD
-- ```SHSenkyoku``` : 2020.10.2 ( 2020.10.1 演出チェック済 )
-- ```SHKaihyojo``` : 2020.10.2 ( 2020.10.1 演出チェック済 )
-- ```SASenkyoku``` : YYYY.MM.DD
-- ```SAKaihyojo``` : YYYY.MM.DD
 
 ## 更新履歴
 
